@@ -40,30 +40,30 @@
 ## 5. Chronological Anomaly Log (Sample of Recent 200)
 | Date / Time | Station Name | Brand | State | Fuel Type | Price Spike | Status |
 |---|---|---|---|---|---|---|
-| 16/06/2026, 5:40:02 am | 7-Eleven Boronia Heights | 7 Eleven | QLD | E10 | +33.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Greenbank | 7 Eleven | QLD | E10 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Chandler | 7 Eleven | QLD | E10 | +28.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Boronia Heights | 7 Eleven | QLD | Premium 98 | +33.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Greenbank | 7 Eleven | QLD | Premium 98 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Chandler | 7 Eleven | QLD | Premium 98 | +28.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Boronia Heights | 7 Eleven | QLD | Unleaded 91 | +33.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Greenbank | 7 Eleven | QLD | Unleaded 91 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Chandler | 7 Eleven | QLD | Unleaded 91 | +28.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Boronia Heights | 7 Eleven | QLD | Premium 95 | +33.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Greenbank | 7 Eleven | QLD | Premium 95 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:40:02 am | 7-Eleven Chandler | 7 Eleven | QLD | Premium 95 | +28.0¢/L | SPIKE |
-| 16/06/2026, 5:20:02 am | 7-Eleven Hillcrest | 7 Eleven | QLD | Premium 95 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:20:02 am | 7-Eleven Hillcrest | 7 Eleven | QLD | Premium 98 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:20:02 am | 7-Eleven Hillcrest | 7 Eleven | QLD | E10 | +30.0¢/L | SPIKE |
-| 16/06/2026, 5:20:02 am | 7-Eleven Hillcrest | 7 Eleven | QLD | Unleaded 91 | +30.0¢/L | SPIKE |
-| 15/06/2026, 9:20:02 pm | Metro Petroleum Capalaba | Metro Fuel | QLD | Premium Diesel | +14.0¢/L | SPIKE |
-| 15/06/2026, 9:20:02 pm | Metro Petroleum Fernvale | Metro Fuel | QLD | Premium Diesel | +14.0¢/L | GOUGE |
-| 15/06/2026, 9:00:04 pm | Metro Petroleum Hillcrest | Metro Fuel | QLD | Premium Diesel | +16.0¢/L | SPIKE |
-| 15/06/2026, 9:00:04 pm | Metro Petroleum Greenbank | Metro Fuel | QLD | Premium Diesel | +16.0¢/L | SPIKE |
-| 15/06/2026, 9:00:04 pm | Metro Petroleum Pimpama | Metro Fuel | QLD | Premium Diesel | +11.6¢/L | SPIKE |
-| 15/06/2026, 9:00:04 pm | BP Normanton Foodworks | BP | QLD | Unleaded 91 | +10.0¢/L | SPIKE |
-| 15/06/2026, 9:00:04 pm | BP Normanton Foodworks | BP | QLD | Premium 95 | +10.0¢/L | SPIKE |
-| 15/06/2026, 8:20:02 pm | Liberty Bauhinia Roadhouse | Liberty | QLD | Diesel | +12.0¢/L | SPIKE |
-| 15/06/2026, 12:40:10 pm | Pearl Energy Pimpama | Pearl Energy | QLD | Diesel | +11.6¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Boronia Heights | 7 Eleven | QLD | E10 | +33.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Greenbank | 7 Eleven | QLD | E10 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Chandler | 7 Eleven | QLD | E10 | +28.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Boronia Heights | 7 Eleven | QLD | Premium 98 | +33.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Greenbank | 7 Eleven | QLD | Premium 98 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Chandler | 7 Eleven | QLD | Premium 98 | +28.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Boronia Heights | 7 Eleven | QLD | Unleaded 91 | +33.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Greenbank | 7 Eleven | QLD | Unleaded 91 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Chandler | 7 Eleven | QLD | Unleaded 91 | +28.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Boronia Heights | 7 Eleven | QLD | Premium 95 | +33.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Greenbank | 7 Eleven | QLD | Premium 95 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:40:02 pm | 7-Eleven Chandler | 7 Eleven | QLD | Premium 95 | +28.0¢/L | SPIKE |
+| 16/06/2026, 3:20:02 pm | 7-Eleven Hillcrest | 7 Eleven | QLD | Premium 95 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:20:02 pm | 7-Eleven Hillcrest | 7 Eleven | QLD | Premium 98 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:20:02 pm | 7-Eleven Hillcrest | 7 Eleven | QLD | E10 | +30.0¢/L | SPIKE |
+| 16/06/2026, 3:20:02 pm | 7-Eleven Hillcrest | 7 Eleven | QLD | Unleaded 91 | +30.0¢/L | SPIKE |
+| 16/06/2026, 7:20:02 am | Metro Petroleum Capalaba | Metro Fuel | QLD | Premium Diesel | +14.0¢/L | SPIKE |
+| 16/06/2026, 7:20:02 am | Metro Petroleum Fernvale | Metro Fuel | QLD | Premium Diesel | +14.0¢/L | GOUGE |
+| 16/06/2026, 7:00:04 am | Metro Petroleum Hillcrest | Metro Fuel | QLD | Premium Diesel | +16.0¢/L | SPIKE |
+| 16/06/2026, 7:00:04 am | Metro Petroleum Greenbank | Metro Fuel | QLD | Premium Diesel | +16.0¢/L | SPIKE |
+| 16/06/2026, 7:00:04 am | Metro Petroleum Pimpama | Metro Fuel | QLD | Premium Diesel | +11.6¢/L | SPIKE |
+| 16/06/2026, 7:00:04 am | BP Normanton Foodworks | BP | QLD | Unleaded 91 | +10.0¢/L | SPIKE |
+| 16/06/2026, 7:00:04 am | BP Normanton Foodworks | BP | QLD | Premium 95 | +10.0¢/L | SPIKE |
+| 16/06/2026, 6:20:02 am | Liberty Bauhinia Roadhouse | Liberty | QLD | Diesel | +12.0¢/L | SPIKE |
+| 15/06/2026, 10:40:10 pm | Pearl Energy Pimpama | Pearl Energy | QLD | Diesel | +11.6¢/L | SPIKE |
 
 *End of compilation report. Source dataset retrieved from database edge functions.*
